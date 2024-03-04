@@ -7,6 +7,8 @@
 ## git 사용하기
 - git 설치 [바로가기](https://git-scm.com)
 - github 계정 생성 [바로가기](https://github.com)
+- 로컬저장소(Working Area)에서 결과물 제작
+- 원격저장소(Remote Repository)에 결과물 전송
 
 ## git client 도구
 - github DeskTop
